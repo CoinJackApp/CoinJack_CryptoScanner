@@ -13,10 +13,10 @@ CoinJack has a vast functionality:
 5) Allows to calculate the checksum of the given 11/23 word combinations (Just a fun feature to play around with).
 
 There are bunch of scam brute force programs on the internet that claim to make you rich, but all they do is generate seed phrases at high speed.
-To check balances at this rate, you would need to run your own blochcain explorer locally. It would require an expensive hardware and terrabytes of ssd storage.
-CoinJack uses third-party blockchain explorers to check balances (hence requires internet connection).
-You can test CoinJack by checking the balance of any known wallet (like "abandon x 11, about") and compare the generated addresses
-and balances to any other crypto wallet apps (like TrustWallet).
+To check balances at this rate, you would need to run your own blockchain explorer locally. It would require an expensive hardware and terrabytes of ssd storage.
+
+CoinJack uses online third-party blockchain explorers to check balances (hence requires internet connection).
+You can test CoinJack by checking the balance of any known wallet (like "abandon x 11, about") and compare the generated addresses and balances to any other crypto wallet apps (like TrustWallet).
 
 Developers of CoinJack do not condone stealing! Creating wallets and looking up balances is not a crime. Stealing funds is!
 When a non-zero balance wallet is found, we advise not to spend the funds but merely appreciate the unbelievably low odds of this event and share your story online. 
