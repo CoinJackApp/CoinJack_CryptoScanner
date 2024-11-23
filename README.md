@@ -1,3 +1,7 @@
+Version 0.2 is available! 
+Bitcoin search is 250 times faster! (120 for free version) 
+Ethereum search is 20 times faster!
+
 Any crypto wallet is basically just a combination of 12 or 24 words. 
 The amount of combinations is so vast that to randomly generate the same word phrase twice is almost impossible. 
 However, there's still a slim chance of creating a wallet that has already been created, used, and has funds on it.
