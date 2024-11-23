@@ -1,5 +1,5 @@
 Version 0.2 is available! 
-Bitcoin search is 250 times faster! (120 for free version) 
+Bitcoin search is 250 times faster!
 Ethereum search is 20 times faster!
 
 Any crypto wallet is basically just a combination of 12 or 24 words. 
